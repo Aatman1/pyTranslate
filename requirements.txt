@@ -1,0 +1,10 @@
+pyaudio
+speechrecognition
+transformers
+sentencepiece
+torch
+torchvision
+torchaudio
+sacremoses
+noisereduce
+numpy
