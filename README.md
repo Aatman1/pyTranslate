@@ -8,11 +8,3 @@ This project implements real-time speech recognition and translation using Pytho
 
 - Python 3.6+
 - `virtualenv` (recommended for managing dependencies)
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
