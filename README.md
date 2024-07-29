@@ -8,3 +8,8 @@ This project implements real-time speech recognition and translation using Pytho
 
 - Python 3.6+
 - `virtualenv` (recommended for managing dependencies)
+
+
+NOTES:
+- right now limited to accurate English input, 
+- struggles with reading and transcribing other languages
